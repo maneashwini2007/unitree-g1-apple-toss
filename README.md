@@ -1,5 +1,9 @@
 # Unitree G1 Apple Toss Simulation
 
+pip install -r requirements.txt
+git clone https://github.com/google-deepmind/mujoco_menagerie
+python g1_apple_toss.py --scene mujoco_menagerie/unitree_g1/scene.xml
+
 ## Project overview
 
 This project simulates a Unitree G1 humanoid robot tossing an apple from one
