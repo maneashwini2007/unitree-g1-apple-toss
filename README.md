@@ -5,7 +5,7 @@ git clone https://github.com/google-deepmind/mujoco_menagerie
 python g1_apple_toss.py --scene mujoco_menagerie/unitree_g1/scene.xml
 ## Simulation Demo
 
-[Watch Simulation Video](mujucotoss video.mp4)
+[Watch Simulation Video](apple_toss_demo.mp4)
 
 ## Project overview
 
